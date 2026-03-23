@@ -37,7 +37,7 @@ Analizado bajo el motor de **Colemak-DH** y **Keyboard Layout Analyzer (KLA)** p
 | **Uso de las columnas centrales**        |      **~7%**      |  ~15.5%   | **Menos estiramientos laterales.** Más de la mitad de estiramientos desaparecen.                                          |
 
 
-Sí deseas comprobar más a fondo el rendimiento de Arcadio, **por favor mirar [Pruebas](/analisys/pruebas.md)**
+Sí deseas comprobar más a fondo el rendimiento de Arcadio, **por favor mirar [Pruebas](/analysis/pruebas.md)**
 
 *(Nota: Sorprendentemente, su diseño rinde bien en inglés, logrando un esfuerzo fisico de 1.771).* **Por favor mirar [README-English](README-English.md)**
 
