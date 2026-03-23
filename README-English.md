@@ -26,8 +26,8 @@ Analyzed under the Colemak-DH engine for the English language (Norvig corpus):
 
 | Metrics                                  | Arcadio (English) |  QWERTY   | What does it mean to you?                                                                                                 |
 | :--------------------------------------- | :---------------: | :-------: | :------------------------------------------------------------------------------------------------------------------------ |
-| **Physical effort**                      |     **1.771**     |   2.345   | **~24% less effort.** Your fingers work less each day.                                                                    |
-| **Stumbles (Same Fingers Bigrams)**      |     **3.14%**     |   6.77%   | **Total fluency.** Less than half the time you use the same finger twice in a row.                                        |
+| **Physical effort**                      |     **1.771**     |   2.371   | **~25% less effort.** Your fingers work less each day.                                                                    |
+| **Stumbles (Same Fingers Bigrams)**      |     **3.14%**     |   6.94%   | **Total fluency.** Less than half the time you use the same finger twice in a row.                                        |
 | **Hand balance**                         |   **53% / 47%**   | 59% / 41% | **Symmetry.** The overload on one hand is over.                                                                           |
 | **Finger changes**                       |    **Only 4**     |     0     | **Easy to learn.** Only the letters `D, U, R, K` change fingers.                                                          |
 | **Home Block Usage**                     |    **~70.5%**     |  ~31.4%   | **Almost 3 out of 4 keystrokes keep your fingers in their resting position.** Stretching fatigue is cut by more than half. |
