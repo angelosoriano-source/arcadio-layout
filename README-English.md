@@ -33,7 +33,7 @@ Analyzed under the Colemak-DH engine for the English language (Norvig corpus):
 | **Home Block Usage**                     |    **~70.5%**     |  ~31.4%   | **Almost 3 out of 4 keystrokes keep your fingers in their resting position.** Stretching fatigue is cut by more than half. |
 | **Inner Column Usage**                   |    **~13.5%**     |  ~26.6%   | **Fewer lateral stretches.** Half of the awkward sideways finger movements disappear.                                     |
 
-If you want to learn more about Arcadio's performance in detail, **please check out [Testing](/analisys/testing.md)**
+If you want to learn more about Arcadio's performance in detail, **please check out [Testing](/analysis/testing.md)**
 
 
 # Installation
