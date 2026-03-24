@@ -1,0 +1,59 @@
+partial alphanumeric_keys
+xkb_symbols "arcadio_iso" {
+
+    name[Group1]="Spanish (Latin American, Arcadio)";
+
+    key <TLDE>  {[        bar,       degree,        notsign,      notsign ]};
+    key <AE01>  {[          1,       exclam,            bar,   exclamdown ]};
+    key <AE02>  {[          2,     quotedbl,             at,    oneeighth ]};
+    key <AE03>  {[          3,   numbersign, periodcentered,     sterling ]};
+    key <AE04>  {[          4,       dollar,     asciitilde,       dollar ]};
+    key <AE05>  {[          5,      percent,        onehalf, threeeighths ]};
+    key <AE06>  {[          6,    ampersand,        notsign,  fiveeighths ]};
+    key <AE07>  {[          7,        slash,      braceleft, seveneighths ]};
+    key <AE08>  {[          8,    parenleft,    bracketleft,    trademark ]};
+    key <AE09>  {[          9,   parenright,   bracketright,    plusminus ]};
+    key <AE10>  {[          0,        equal,     braceright,       degree ]};
+    key <AE11>  {[ apostrophe,     question,      backslash, questiondown ]};
+    key <AE12>  {[ questiondown, exclamdown,   dead_cedilla,  dead_ogonek ]};
+
+    key <AD01>  {[          q,            Q,          U201A,        U201E ]};
+    key <AD02>  {[          w,            W,          U2018,        U201C ]};
+    key <AD03>  {[          k,            K,           cent,    copyright ]};
+    key <AD04>  {[          d,            D,            eth,          ETH ]};
+    key <AD05>  {[          f,            F,          U2019,        U201D ]};
+    key <AD06>  {[          j,            J,          U222B,        U03A3 ]};
+    key <AD07>  {[          y,            Y,          U2039, guillemoleft ]};
+    key <AD08>  {[          u,            U,          U203A,guillemoright ]};
+    key <AD09>  {[          l,            L,        lstroke,      Lstroke ]};
+    key <AD10>  {[     ntilde,       Ntilde,     asciitilde,        U02EE ]};
+    key <AD11>  {[ dead_acute,dead_diaeresis,dead_diaeresis,dead_abovering]};
+    key <AD12>  {[       plus,     asterisk,     asciitilde,  dead_macron ]};
+
+    key <AC01>  {[          a,            A,             ae,           AE ]};
+    key <AC02>  {[          s,            S,         ssharp,      section ]};
+    key <AC03>  {[          e,            E,       EuroSign               ]};
+    key <AC04>  {[          t,            T,          thorn,        THORN ]};
+    key <AC05>  {[          g,            G,            eng,          ENG ]};
+    key <AC06>  {[          h,            H,        hstroke,      Hstroke ]};
+    key <AC07>  {[          n,            N,         hyphen               ]};
+    key <AC08>  {[          i,            I,          U2015               ]};
+    key <AC09>  {[          o,            O,          U00BA,        U00AA ]};
+    key <AC10>  {[          p,            P,          U2293,    paragraph ]};
+    key <AC11>  {[  braceleft,  bracketleft, dead_circumflex,   braceleft ]};
+    key <BKSL>  {[ braceright, bracketright,     dead_grave,   braceright ]};
+
+    key <LSGT>  {[       less,      greater,            bar,        U00A6 ]};
+    key <AB01>  {[          z,            Z,            ezh,          EZH ]};
+    key <AB02>  {[          x,            X,          U2020,        U2021 ]};
+    key <AB03>  {[          c,            C,          U00E7,        U00C7 ]};
+    key <AB04>  {[          v,            V,          U03B3               ]};
+    key <AB05>  {[          b,            B,          U2022,        U03B2 ]};
+    key <AB06>  {[          m,            M                               ]};
+    key <AB07>  {[          r,            R,     registered,    trademark ]};
+    key <AB08>  {[      comma,    semicolon,         hyphen,     multiply ]};
+    key <AB09>  {[     period,        colon,          U0323,     division ]};
+    key <AB10>  {[      minus,   underscore                               ]};
+
+    include "level3(ralt_switch)"
+};
