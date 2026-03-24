@@ -104,6 +104,7 @@ Below is a brief summary of how Arcadio performs in French compared to AZERTY an
 
 
 **Home block usage is 27.52**
+
 <img width="758" height="905" alt="AZERTY" src="https://github.com/user-attachments/assets/63bff559-1d1b-4db5-bf53-b491e42fed55" />
 
 
@@ -111,6 +112,7 @@ Below is a brief summary of how Arcadio performs in French compared to AZERTY an
 
 
 **Home block usage is 73.00%**
+
 <img width="544" height="737" alt="ArcadioFR" src="https://github.com/user-attachments/assets/2d344da5-8cad-4016-8d96-89774f6cfc09" />
 
 Arcadio achieves a 62% reduction in Same Finger Bigrams (SFBs) and a 30% reduction in total physical effort.
