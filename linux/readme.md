@@ -1,6 +1,8 @@
 ### Instalación en Linux
 
-La instalación en distribuciones basadas en Linux (Ubuntu, Fedora, Arch, etc.) se realiza mediante un script automatizado que agrega Arcadio a la configuración de X11/Wayland.
+La instalación en distribuciones basadas en Linux (Ubuntu, Fedora, Arch, etc.) se realiza mediante un script automatizado que agrega Arcadio a la configuración de X11/Wayland, esto crea un archivo aparte que no afecta los archivos xkb de tu sistema.
+
+Installation on Linux-based distributions (Ubuntu, Fedora, Arch, etc.) is done via an automated script that adds Arcadio to your X11/Wayland configuration. This creates a separate file that does not affect your system's existing xkb files.
 
 **Pasos:**
 1. Descarga el archivo llamado install.sh
