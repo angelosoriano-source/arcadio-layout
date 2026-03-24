@@ -103,7 +103,7 @@ Below is a brief summary of how Arcadio performs in French compared to AZERTY an
 **AZERTY**
 
 
-**Home block usage is 27.52**
+**Home block usage is 27.52%**
 
 <img width="758" height="905" alt="AZERTY" src="https://github.com/user-attachments/assets/63bff559-1d1b-4db5-bf53-b491e42fed55" />
 
