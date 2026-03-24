@@ -115,7 +115,7 @@ Below is a brief summary of how Arcadio performs in French compared to AZERTY an
 
 <img width="544" height="737" alt="ArcadioFR" src="https://github.com/user-attachments/assets/2d344da5-8cad-4016-8d96-89774f6cfc09" />
 
-Arcadio achieves a 62% reduction in Same Finger Bigrams (SFBs) and a 30% reduction in total physical effort.
+Arcadio achieves a **62% reduction in Same Finger Bigrams** (SFBs) and a 30% reduction in total physical effort.
 
 # Les Miserables
 
@@ -128,4 +128,17 @@ Arcadio achieves a 62% reduction in Same Finger Bigrams (SFBs) and a 30% reducti
 <img width="1437" height="649" alt="Distancia-Les-Miserables" src="https://github.com/user-attachments/assets/84bc611b-f247-4926-ab5f-8277caa28610" />
 
 It achieves a **46.6% reduction in travel distance** compared to the standard AZERTY layout.
+
+
+# Most Common Words (French)
+
+<img width="1236" height="449" alt="Resultados-palabrasmascomunesfrances" src="https://github.com/user-attachments/assets/8879cf5c-5c0e-4f7a-9108-9f1bc426f345" />
+
+
+**Distance**
+
+<img width="1684" height="739" alt="Distancia-palabrasmascomunesfrances" src="https://github.com/user-attachments/assets/1527bcb7-8559-48f5-927b-efe139427d94" />
+
+
+It achieves a **52.03% reduction in travel distance** compared to the standard AZERTY layout.
 
