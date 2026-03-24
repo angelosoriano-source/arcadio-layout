@@ -35,7 +35,7 @@ The following images show, in order: the load on each hand, the bigram frequency
 
 <img width="634" height="848" alt="Arcadio-EN1" src="https://github.com/user-attachments/assets/7dac41d5-61d5-4265-a51f-6dab480a5af1" />
 
-In summary, Arcadio achieves a 54.68% reduction in Same Finger Bigrams (SFBs) and a 25% reduction in total physical effort. In practice, you trip over the same finger only a hal of the time and save a quarter of the physical effort. However, effort is not exactly the same as the actual physical distance your hands travel; that is the next factor we will analyze below.
+In summary, Arcadio achieves a 54.68% reduction in Same Finger Bigrams (SFBs) and a 25% reduction in total physical effort. In practice, you trip over the same finger only a half of the time and save a quarter of the physical effort. However, effort is not exactly the same as the actual physical distance your hands travel; that is the next factor we will analyze below.
 
 ## Travel Distance
 
@@ -58,15 +58,17 @@ This translates to a **physical distance savings of 37%** compared to QWERTY.
 
 **Most Common Words Corpus**
 
+<img width="806" height="312" alt="Palabras-mas-comunes-ingles" src="https://github.com/user-attachments/assets/1486a9ba-eb65-4661-bb34-4b30cde68a3c" />
 
 
 
 **Distance**
 
+<img width="1458" height="604" alt="Distancia-palabras-mas-comunes-EN" src="https://github.com/user-attachments/assets/3a1f935d-101b-4ac5-bc90-7155fc066508" />
 
 
 
-The Arcadio layout achieves a **43% distance savings** when typing in Spanish. You save almost half the distance you would have to travel using QWERTY in approximately **85%** of commonly used words in Spanish texts.
+The Arcadio layout achieves a **43% distance savings** when typing in english. You save almost half the distance you would have to travel using QWERTY in approximately **85%** of commonly used words in English texts.
 
 # Pangram Testing
 
@@ -78,30 +80,50 @@ Although pangrams are not a perfect metric, as they force the appearance of ever
 
 # The quick brown fox jumps over the lazy dog
 
-| Word            |  Arcadio  |  QWERTY   |
-| :-------------- | :------:  | :------:  |
-| **the** |   5    |      |
-| **quick** |  11     |       |
-| **brown** |   11     |       |
-| **fox** |   8    |       |
-| **jump** |   11.5     |       |
-| **over** | 7      |       |
-| **the** |  5     |       |
-| **lazy** | 10.5      |       |
-| **dog** |  7     |       |
-| **TOTAL** | **** | **** |
+|      Word       |  Arcadio  |  QWERTY  |
+| :-------------- | :------:  | :------: |
+| **the**         |    5.0    |    9.0   |
+| **quick**       |   11.0    |   12.0   |
+| **brown**       |   11.0    |   15.0   |
+| **fox**         |    8.0    |    6.0   |
+| **jumps**       |   12.5    |   11.0   |
+| **over**        |    7.0    |   10.0   |
+| **the**         |    5.0    |    9.0   |
+| **lazy**        |   10.5    |   11.5   |
+| **dog**         |    7.0    |    6.0   |
+| **TOTAL**       | **77.0**  | **89.5** |
 
 
-# Performance in Other Languages
+# Performance in French
 
-Below is a brief summary of how Arcadio performs in English and French compared to QWERTY or their respective official keyboards, using metrics from the Colemak Mod-DH analyzer.
+Below is a brief summary of how Arcadio performs in French compared to AZERTY and BÈPO using metrics from the Colemak Mod-DH analyzer, [Keyboard Layout Analyzer (KLA)](https://patorjk.com/keyboard-layout-analyzer/) and [Stevep99's fork](https://stevep99.github.io/keyboard-layout-analyzer/#/main).
 
 # French
 
 **AZERTY**
 
-<img width="589" height="849" alt="AZERTY" src="https://github.com/user-attachments/assets/f54deb1a-341c-466f-b629-4d43a9beadbd" />
+
+**Home block usage is 27.52**
+<img width="758" height="905" alt="AZERTY" src="https://github.com/user-attachments/assets/63bff559-1d1b-4db5-bf53-b491e42fed55" />
+
 
 **Arcadio**
 
+
+**Home block usage is 73.00%**
 <img width="544" height="737" alt="ArcadioFR" src="https://github.com/user-attachments/assets/2d344da5-8cad-4016-8d96-89774f6cfc09" />
+
+Arcadio achieves a 62% reduction in Same Finger Bigrams (SFBs) and a 30% reduction in total physical effort.
+
+# Les Miserables
+
+<img width="1392" height="519" alt="ResultadosLesMiserables" src="https://github.com/user-attachments/assets/5a33dbd9-e6f9-4b99-919e-eb85335762e1" />
+
+> Note: I used the Spanish ISO QWERTY layout as the base for Arcadio in KLA.
+
+**Distance**
+
+<img width="1437" height="649" alt="Distancia-Les-Miserables" src="https://github.com/user-attachments/assets/84bc611b-f247-4926-ab5f-8277caa28610" />
+
+It achieves a **46.6% reduction in travel distance** compared to the standard AZERTY layout.
+
