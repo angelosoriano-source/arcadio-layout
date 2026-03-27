@@ -47,7 +47,8 @@ Vaya a [/windows](windows) o [/linux](linux) e instale Arcadio en su teclado ANS
 
 Para sacarle todo el jugo a Arcadio, guíate por la tabla de colores inferior. Se recomienda usar una digitación alternativa, replicando el movimiento de *curl* (flexión) de la mano derecha también en la mano izquierda para lograr una escritura más natural.
 
-<img width="1420" height="381" alt="mapa-dedos-ansi" src="https://github.com/user-attachments/assets/330447c2-63a2-4c48-a91c-f68567569a4e" />
+<img width="2252" height="612" alt="1000037095" src="https://github.com/user-attachments/assets/86fb61d7-0095-4777-b9c4-aaf387eef5b1" />
+
 
 
 # ¿Por qué se creó?
